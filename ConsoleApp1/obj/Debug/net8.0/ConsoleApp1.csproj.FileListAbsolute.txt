@@ -1,0 +1,14 @@
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/cri/Documents/VSCProjects/ConsoleApp/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
